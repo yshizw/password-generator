@@ -5,8 +5,11 @@ A simple Python password generator that creates random passwords based on user s
 
 ## Features
 
-### Basic: Generates a basic password with customizable length and content. The order is fixed (letters, numbers, symbols).
-### Shuffled: Generates a password where the content is shuffled using random.shuffle for a more secure, randomized password.
+### Basic: 
+Generates a basic password with customizable length and content. The order is fixed (letters, numbers, symbols).
+### Shuffled: 
+Generates a password where the content is shuffled using random.shuffle for a more secure, randomized password.
+
 - Customizable password length.
 - Options include:
 - Uppercase and lowercase letters (randomized)
